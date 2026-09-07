@@ -1,4 +1,5 @@
 # 🎓 Student GPA Predictor
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-View%20App-success?style=for-the-badge)](https://student-gpa-predictor.onrender.com)
 
 A simple Machine Learning project that predicts a student's **GPA out of 4.0** based on their study habits, attendance, and other academic activities.
 
